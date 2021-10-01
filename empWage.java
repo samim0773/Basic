@@ -3,6 +3,8 @@ public class EmpWage{
 		System.out.println("Hello World");
 		
 		System.out.println("Second message");
+		
+		System.out.println("last message");
 	}
 	
 	
